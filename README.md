@@ -5,6 +5,7 @@ UNC Charlotte Election 2024 Perspectives (Niner Times)
 This project examines the responses of 90 UNC Charlotte students regarding the 2024 Election. The results were published in the Niner Times (UNC Charlotte's student newspaper) online, in the print Voter Guide, and on social media. I also made all visualizations on the article, print, and social media.
 
 Online article: https://www.ninertimes.com/news/90-charlotte-students-share-their-thoughts-on-the-2024-election/article_08e418f8-8f40-11ef-9f81-bb659a813d2c.html
+
 Social media: https://www.instagram.com/p/DBcgZi-RJNB/
 
 ## Data Source
